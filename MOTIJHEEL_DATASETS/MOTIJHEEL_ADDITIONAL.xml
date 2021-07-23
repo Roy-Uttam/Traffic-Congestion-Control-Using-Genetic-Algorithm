@@ -1,0 +1,85 @@
+<additional>
+	<!-- FIRST PHASE -->
+	<tlLogic id="1556433695" programID="program_01" offset="0" type="static">
+		<phase duration="39" state="GGrr" />
+		<phase duration="6" state="yyrr" />
+		<phase duration="39" state="rrGG" />
+		<phase duration="6" state="rryy" />
+	</tlLogic>
+	<tlLogic id="123042819" programID="program_01" offset="0" type="static">
+		<phase duration="80" state="GGrr" />
+		<phase duration="10" state="rrGG" />
+	</tlLogic>
+	<tlLogic id="6139734091" programID="program_01" offset="0" type="static">
+		<phase duration="90" state="GGGG" />
+	</tlLogic>
+	<tlLogic id="6277198888" programID="program_01" offset="0" type="static">
+		<phase duration="90" state="GG" />
+	</tlLogic>
+	<tlLogic id="2830970785" programID="program_01" offset="0" type="static">
+		<phase duration="90" state="rrGGG" />
+	</tlLogic>
+	<tlLogic id="2830970773" programID="program_01" offset="0" type="static">
+		<phase duration="39" state="Gr" />
+		<phase duration="6" state="yr" />
+		<phase duration="39" state="rG" />
+		<phase duration="6" state="ry" />
+	</tlLogic>
+	<tlLogic id="387814628" programID="program_01" offset="0" type="static">
+		<phase duration="90" state="rrGGGG" />
+	</tlLogic>
+	<!-- SECOND PHASE -->
+	<tlLogic id="1556433695" programID="program_02" offset="0" type="static">
+		<phase duration="90" state="GGGG" />
+	</tlLogic>
+	<tlLogic id="123042819" programID="program_02" offset="0" type="static">
+		<phase duration="80" state="GGrr" />
+		<phase duration="10" state="rrGG" />
+	</tlLogic>
+	<tlLogic id="6139734091" programID="program_02" offset="0" type="static">
+		<phase duration="90" state="GGGG" />
+	</tlLogic>
+	<tlLogic id="6277198888" programID="program_02" offset="0" type="static">
+		<phase duration="90" state="Gr" />
+	</tlLogic>
+	<tlLogic id="2830970785" programID="program_02" offset="0" type="static">
+		<phase duration="90" state="rrGGG" />
+	</tlLogic>
+	<tlLogic id="2830970773" programID="program_02" offset="0" type="static">
+		<phase duration="39" state="Gr" />
+		<phase duration="6" state="yr" />
+		<phase duration="39" state="rG" />
+		<phase duration="6" state="ry" />
+	</tlLogic>
+	<tlLogic id="387814628" programID="program_02" offset="0" type="static">
+		<phase duration="90" state="rrGGGG" />
+	</tlLogic>
+	<!-- THIRD PHASE -->
+	<tlLogic id="1556433695" programID="program_03" offset="0" type="static">
+		<phase duration="90" state="GGGG" />
+	</tlLogic>
+	<tlLogic id="123042819" programID="program_03" offset="0" type="static">
+		<phase duration="90" state="GGGG" />
+	</tlLogic>
+	<tlLogic id="6139734091" programID="program_03" offset="0" type="static">
+		<phase duration="90" state="GGGG" />
+	</tlLogic>
+	<tlLogic id="6277198888" programID="program_03" offset="0" type="static">
+		<phase duration="40" state="GG" />
+		<phase duration="6" state="yy" />
+		<phase duration="44" state="rr" />
+	</tlLogic>
+	<tlLogic id="2830970785" programID="program_03" offset="0" type="static">
+		<phase duration="40" state="rrGGG" />
+		<phase duration="6" state="yyyyy" />
+		<phase duration="44" state="GGrrr" />
+	</tlLogic>
+	<tlLogic id="2830970773" programID="program_03" offset="0" type="static">
+		<phase duration="90" state="GG" />
+	</tlLogic>
+	<tlLogic id="387814628" programID="program_03" offset="0" type="static">
+		<phase duration="40" state="GGGGrr" />
+		<phase duration="6" state="yyyyyy" />
+		<phase duration="44" state="rrGGGG" />
+	</tlLogic>
+</additional>

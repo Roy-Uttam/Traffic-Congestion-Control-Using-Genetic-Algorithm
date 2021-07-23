@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<configuration>
+
+	<!-- INPUT FILES -->
+	<input>
+		<net-file value="Dhanmondi.net.xml" />
+		<route-files value="Dhanmondi.rou.xml" />
+		<additional-files value="Dhanmondi_additional.xml"/>
+	</input>
+
+	<!-- STEPS -->
+	<time>
+		<begin value="0" />
+		<end value="1000" />
+	</time>
+</configuration>

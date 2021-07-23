@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 01/12/21 09:17:08 by Eclipse SUMO GUI Version 1.8.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="DHANMONDI_DATASETS/Dhanmondi.net.xml"/>
+        <route-files value="DHANMONDI_DATASETS/Dhanmondi.rou.xml"/>
+        <additional-files value="DHANMONDI_DATASETS/Dhanmondi_additional.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="1000"/>
+    </time>
+
+    <traci_server>
+        <remote-port value="6251"/>
+    </traci_server>
+
+</configuration>
+-->
+
+<snapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/state_file.xsd" version="1.8.0" time="100.00" type="micro">
+    <route id="!100" state="0" edges="gneE0 gneE1 746397613#1 565242144#4 565242144#5"/>
+    <route id="!101" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!102" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!108" state="0" edges="506695204#1 506695197#0"/>
+    <route id="!109" state="0" edges="489945116#0 506695195 167533249#1"/>
+    <route id="!110" state="0" edges="gneE0 gneE1 746397613#1 565242144#4 506695196#0 489945116#3 489945116#4 489945116#5 489945116#6"/>
+    <route id="!111" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 565242144#5"/>
+    <route id="!112" state="0" edges="216650113 565242144#3 565242144#4 506695196#0 489945116#3 489945116#4 489945116#5 489945116#6"/>
+    <route id="!113" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 565242144#5"/>
+    <route id="!115" state="0" edges="216650113 565242144#3 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!117" state="0" edges="489945116#0 506695195 167533249#1"/>
+    <route id="!118" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!121" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 565242144#5"/>
+    <route id="!123" state="0" edges="489945116#0 506695195 167533249#1"/>
+    <route id="!124" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!126" state="0" edges="216650113 565242144#3 565242144#4 506695196#0 489945116#3 489945116#4 489945116#5"/>
+    <route id="!127" state="0" edges="gneE1"/>
+    <route id="!128" state="0" edges="216650113 565242144#3 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!130" state="0" edges="565242144#2 565242144#3 565242144#4 565242144#5"/>
+    <route id="!131" state="0" edges="506695195 167533249#1"/>
+    <route id="!133" state="0" edges="506695204#1 gneE0"/>
+    <route id="!135" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!136" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 565242144#5"/>
+    <route id="!137" state="0" edges="489945116#0 489945116#1 489945116#2 506695196#1 167533249#0"/>
+    <route id="!138" state="0" edges="216650113 565242144#3 565242144#4 506695196#0 489945116#3 489945116#4 489945116#5 489945116#6"/>
+    <route id="!139" state="0" edges="489945116#0 506695195"/>
+    <route id="!140" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!141" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!142" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 565242144#5"/>
+    <route id="!143" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 506695196#1 167533249#0"/>
+    <route id="!144" state="0" edges="506695195 167533249#1"/>
+    <route id="!146" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!147" state="0" edges="506695204#1 506695197#0 506695197#1 489945116#5 489945116#6"/>
+    <route id="!149" state="0" edges="216650113 565242144#3 565242144#4 565242144#5"/>
+    <route id="!15" state="0" edges="565242144#2 565242144#3 565242144#4 565242144#5"/>
+    <route id="!150" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 489945116#3 489945116#4 489945116#5 489945116#6"/>
+    <route id="!151" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 489945116#3 489945116#4 489945116#5 489945116#6"/>
+    <route id="!152" state="0" edges="489945116#0 506695195 167533249#1"/>
+    <route id="!154" state="0" edges="565242144#2 565242144#3 565242144#4 565242144#5"/>
+    <route id="!155" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!156" state="0" edges="489945116#0 489945116#1 489945116#2 506695196#1 167533249#0"/>
+    <route id="!157" state="0" edges="565242144#2 565242144#3 565242144#4 565242144#5"/>
+    <route id="!158" state="0" edges="506695195"/>
+    <route id="!161" state="0" edges="565242144#2 565242144#3 565242144#4 565242144#5"/>
+    <route id="!164" state="0" edges="565242144#2 565242144#3 565242144#4 565242144#5"/>
+    <route id="!165" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!166" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 506695196#1 167533249#0"/>
+    <route id="!167" state="0" edges="565242144#2 565242144#3 565242144#4 565242144#5"/>
+    <route id="!170" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!171" state="0" edges="167533249#0 167533249#1"/>
+    <route id="!173" state="0" edges="gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!174" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!175" state="0" edges="gneE0 gneE1 746397613#1 565242144#4 506695196#0 489945116#3 489945116#4 489945116#5 489945116#6"/>
+    <route id="!176" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 506695196#1 167533249#0"/>
+    <route id="!177" state="0" edges="gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!178" state="0" edges="gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!179" state="0" edges="216650113 565242144#3 565242144#4 506695196#0 489945116#3 489945116#4 489945116#5"/>
+    <route id="!180" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!181" state="0" edges="506695204#1 506695197#0 506695197#1 489945116#5 489945116#6"/>
+    <route id="!185" state="0" edges="506695204#1 506695197#0"/>
+    <route id="!188" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!19" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 489945116#3 489945116#4 489945116#5 489945116#6"/>
+    <route id="!190" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!191" state="0" edges="489945116#0 506695195 167533249#1"/>
+    <route id="!192" state="0" edges="506695195 167533249#1"/>
+    <route id="!193" state="0" edges="489945116#0 489945116#1"/>
+    <route id="!194" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 506695196#1"/>
+    <route id="!196" state="0" edges="489945116#0 489945116#1 489945116#2 489945116#3 489945116#4 489945116#5 489945116#6"/>
+    <route id="!197" state="0" edges="167533249#0 167533249#1"/>
+    <route id="!199" state="0" edges="506695204#1 506695197#0 506695197#1 489945116#5"/>
+    <route id="!200" state="0" edges="506695196#1 167533249#0 167533249#1"/>
+    <route id="!202" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!24" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!31" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1"/>
+    <route id="!32" state="0" edges="565242144#2 565242144#3 565242144#4 565242144#5"/>
+    <route id="!34" state="0" edges="489945116#1 489945116#2 506695196#1 167533249#0 167533249#1"/>
+    <route id="!36" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!37" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!38" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 489945116#3 489945116#4 489945116#5"/>
+    <route id="!40" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!41" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 565242144#5"/>
+    <route id="!43" state="0" edges="gneE1 746397613#1 565242144#4 506695196#0 489945116#3 489945116#4 489945116#5 489945116#6"/>
+    <route id="!47" state="0" edges="216650113 565242144#3 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!48" state="0" edges="gneE1 746397613#1 565242144#4 506695196#0 489945116#3 489945116#4 489945116#5 489945116#6"/>
+    <route id="!49" state="0" edges="gneE0 gneE1 746397613#1 565242144#4 565242144#5"/>
+    <route id="!5" state="0" edges="489945116#0 489945116#1 489945116#2 489945116#3 489945116#4 489945116#5 489945116#6"/>
+    <route id="!53" state="0" edges="216650113 565242144#3 565242144#4 506695196#0 489945116#3 489945116#4 489945116#5"/>
+    <route id="!55" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!56" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!57" state="0" edges="565242144#2 565242144#3 565242144#4 565242144#5"/>
+    <route id="!59" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!60" state="0" edges="506695204#1 506695197#0 506695197#1 489945116#5 489945116#6"/>
+    <route id="!61" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 489945116#3 489945116#4 489945116#5 489945116#6"/>
+    <route id="!64" state="0" edges="565242144#2 565242144#3 565242144#4 565242144#5"/>
+    <route id="!66" state="0" edges="565242144#2 565242144#3 565242144#4 565242144#5"/>
+    <route id="!67" state="0" edges="216650113 565242144#3 565242144#4 506695196#0 489945116#3 489945116#4 489945116#5 489945116#6"/>
+    <route id="!68" state="0" edges="216650113 565242144#3 565242144#4 565242144#5"/>
+    <route id="!69" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!70" state="0" edges="506695197#0 506695197#1 489945116#5 489945116#6"/>
+    <route id="!72" state="0" edges="506695195 167533249#1"/>
+    <route id="!73" state="0" edges="506695204#1 gneE0 gneE1 746397613#1 565242144#4 565242144#5"/>
+    <route id="!74" state="0" edges="489945116#0 506695195 167533249#1"/>
+    <route id="!77" state="0" edges="489945116#0 506695195 167533249#1"/>
+    <route id="!79" state="0" edges="489945116#0 506695195 167533249#1"/>
+    <route id="!8" state="0" edges="489945116#0 489945116#1 489945116#2 489945116#3 489945116#4 489945116#5 489945116#6"/>
+    <route id="!82" state="0" edges="565242144#2 -216650113"/>
+    <route id="!83" state="0" edges="489945116#0 506695195"/>
+    <route id="!84" state="0" edges="489945116#0 506695195 167533249#1"/>
+    <route id="!85" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 489945116#3 489945116#4 489945116#5 489945116#6"/>
+    <route id="!87" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!88" state="0" edges="216650113 565242144#3 565242144#4 506695196#0 489945116#3 489945116#4 489945116#5"/>
+    <route id="!91" state="0" edges="gneE0 gneE1 746397613#1 565242144#4 506695196#0 506695196#1 167533249#0"/>
+    <route id="!92" state="0" edges="506695195 167533249#1"/>
+    <route id="!93" state="0" edges="565242144#2 565242144#3 565242144#4 506695196#0 506695196#1 167533249#0 167533249#1"/>
+    <route id="!94" state="0" edges="489945116#0 489945116#1 489945116#2 489945116#3 489945116#4 489945116#5"/>
+    <route id="!95" state="0" edges="506695195 167533249#1"/>
+    <route id="!99" state="0" edges="gneE1 746397613#1 565242144#4 565242144#5"/>
+    <delay number="76" begin="277" end="46" depart="535.00" time="1621.00"/>
+    <vType id="DEFAULT_VEHTYPE"/>
+    <vehicle id="100" type="DEFAULT_VEHTYPE" depart="100.00" route="!100" distance="0 0" speedFactor="1.02" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="100.1" type="DEFAULT_VEHTYPE" depart="100.00" route="!100" distance="0 0" speedFactor="1.00" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="101" type="DEFAULT_VEHTYPE" depart="101.00" route="!101" distance="0 0" speedFactor="0.95" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="101.1" type="DEFAULT_VEHTYPE" depart="101.00" route="!101" distance="0 0" speedFactor="1.11" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="102" type="DEFAULT_VEHTYPE" depart="102.00" route="!102" distance="0 0" speedFactor="1.16" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="102.1" type="DEFAULT_VEHTYPE" depart="102.00" route="!102" distance="0 0" speedFactor="0.94" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="108" type="DEFAULT_VEHTYPE" depart="108.00" route="!108" distance="0 0" speedFactor="1.13" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="108.1" type="DEFAULT_VEHTYPE" depart="108.00" route="!108" distance="0 0" speedFactor="0.73" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="109" type="DEFAULT_VEHTYPE" depart="109.00" route="!109" distance="0 0" speedFactor="1.14" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="109.1" type="DEFAULT_VEHTYPE" depart="109.00" route="!109" distance="0 0" speedFactor="0.89" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="110" type="DEFAULT_VEHTYPE" depart="110.00" route="!110" distance="0 0" speedFactor="1.00" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="110.1" type="DEFAULT_VEHTYPE" depart="110.00" route="!110" distance="0 0" speedFactor="0.97" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="111" type="DEFAULT_VEHTYPE" depart="111.00" route="!111" distance="0 0" speedFactor="1.04" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="111.1" type="DEFAULT_VEHTYPE" depart="111.00" route="!111" distance="0 0" speedFactor="0.96" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="112" type="DEFAULT_VEHTYPE" depart="112.00" route="!112" distance="0 0" speedFactor="1.00" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="112.1" type="DEFAULT_VEHTYPE" depart="112.00" route="!112" distance="0 0" speedFactor="1.07" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="113" type="DEFAULT_VEHTYPE" depart="113.00" route="!113" distance="0 0" speedFactor="0.93" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="113.1" type="DEFAULT_VEHTYPE" depart="113.00" route="!113" distance="0 0" speedFactor="1.06" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="115" type="DEFAULT_VEHTYPE" depart="115.00" route="!115" distance="0 0" speedFactor="1.12" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="115.1" type="DEFAULT_VEHTYPE" depart="115.00" route="!115" distance="0 0" speedFactor="1.18" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="117" type="DEFAULT_VEHTYPE" depart="117.00" route="!117" distance="0 0" speedFactor="1.08" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="117.1" type="DEFAULT_VEHTYPE" depart="117.00" route="!117" distance="0 0" speedFactor="0.91" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="118" type="DEFAULT_VEHTYPE" depart="118.00" route="!118" distance="0 0" speedFactor="1.14" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="118.1" type="DEFAULT_VEHTYPE" depart="118.00" route="!118" distance="0 0" speedFactor="0.88" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="121" type="DEFAULT_VEHTYPE" depart="121.00" route="!121" distance="0 0" speedFactor="1.08" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="121.1" type="DEFAULT_VEHTYPE" depart="121.00" route="!121" distance="0 0" speedFactor="0.99" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="123" type="DEFAULT_VEHTYPE" depart="123.00" route="!123" distance="0 0" speedFactor="1.13" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="123.1" type="DEFAULT_VEHTYPE" depart="123.00" route="!123" distance="0 0" speedFactor="1.05" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="124" type="DEFAULT_VEHTYPE" depart="124.00" route="!124" distance="0 0" speedFactor="0.91" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="124.1" type="DEFAULT_VEHTYPE" depart="124.00" route="!124" distance="0 0" speedFactor="1.00" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="126" type="DEFAULT_VEHTYPE" depart="126.00" route="!126" distance="0 0" speedFactor="1.03" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="126.1" type="DEFAULT_VEHTYPE" depart="126.00" route="!126" distance="0 0" speedFactor="0.98" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="127" type="DEFAULT_VEHTYPE" depart="127.00" route="!127" distance="0 0" speedFactor="0.94" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="127.1" type="DEFAULT_VEHTYPE" depart="127.00" route="!127" distance="0 0" speedFactor="1.09" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="128" type="DEFAULT_VEHTYPE" depart="128.00" route="!128" distance="0 0" speedFactor="0.90" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="128.1" type="DEFAULT_VEHTYPE" depart="128.00" route="!128" distance="0 0" speedFactor="0.89" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="130" type="DEFAULT_VEHTYPE" depart="130.00" route="!130" distance="0 0" speedFactor="1.14" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="130.1" type="DEFAULT_VEHTYPE" depart="130.00" route="!130" distance="0 0" speedFactor="0.96" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="131" type="DEFAULT_VEHTYPE" depart="131.00" route="!131" distance="0 0" speedFactor="0.92" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="131.1" type="DEFAULT_VEHTYPE" depart="131.00" route="!131" distance="0 0" speedFactor="1.09" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="133" type="DEFAULT_VEHTYPE" depart="133.00" route="!133" distance="0 0" speedFactor="1.03" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="133.1" type="DEFAULT_VEHTYPE" depart="133.00" route="!133" distance="0 0" speedFactor="1.08" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="135" type="DEFAULT_VEHTYPE" depart="135.00" route="!135" distance="0 0" speedFactor="1.06" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="135.1" type="DEFAULT_VEHTYPE" depart="135.00" route="!135" distance="0 0" speedFactor="1.10" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="136" type="DEFAULT_VEHTYPE" depart="136.00" route="!136" distance="0 0" speedFactor="1.03" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="136.1" type="DEFAULT_VEHTYPE" depart="136.00" route="!136" distance="0 0" speedFactor="1.03" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="137" type="DEFAULT_VEHTYPE" depart="137.00" route="!137" distance="0 0" speedFactor="1.08" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="137.1" type="DEFAULT_VEHTYPE" depart="137.00" route="!137" distance="0 0" speedFactor="0.94" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="138" type="DEFAULT_VEHTYPE" depart="138.00" route="!138" distance="0 0" speedFactor="0.92" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="138.1" type="DEFAULT_VEHTYPE" depart="138.00" route="!138" distance="0 0" speedFactor="1.08" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="139" type="DEFAULT_VEHTYPE" depart="139.00" route="!139" distance="0 0" speedFactor="0.89" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="139.1" type="DEFAULT_VEHTYPE" depart="139.00" route="!139" distance="0 0" speedFactor="0.97" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="140" type="DEFAULT_VEHTYPE" depart="140.00" route="!140" distance="0 0" speedFactor="0.97" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="140.1" type="DEFAULT_VEHTYPE" depart="140.00" route="!140" distance="0 0" speedFactor="0.90" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="141" type="DEFAULT_VEHTYPE" depart="141.00" route="!141" distance="0 0" speedFactor="0.93" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="141.1" type="DEFAULT_VEHTYPE" depart="141.00" route="!141" distance="0 0" speedFactor="1.10" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="142" type="DEFAULT_VEHTYPE" depart="142.00" route="!142" distance="0 0" speedFactor="1.07" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="142.1" type="DEFAULT_VEHTYPE" depart="142.00" route="!142" distance="0 0" speedFactor="1.00" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="143" type="DEFAULT_VEHTYPE" depart="143.00" route="!143" distance="0 0" speedFactor="0.84" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="143.1" type="DEFAULT_VEHTYPE" depart="143.00" route="!143" distance="0 0" speedFactor="1.03" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="144" type="DEFAULT_VEHTYPE" depart="144.00" route="!144" distance="0 0" speedFactor="0.87" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="144.1" type="DEFAULT_VEHTYPE" depart="144.00" route="!144" distance="0 0" speedFactor="1.06" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="146" type="DEFAULT_VEHTYPE" depart="146.00" route="!146" distance="0 0" speedFactor="0.83" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="146.1" type="DEFAULT_VEHTYPE" depart="146.00" route="!146" distance="0 0" speedFactor="0.95" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="147" type="DEFAULT_VEHTYPE" depart="147.00" route="!147" distance="0 0" speedFactor="0.87" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="147.1" type="DEFAULT_VEHTYPE" depart="147.00" route="!147" distance="0 0" speedFactor="1.04" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="149" type="DEFAULT_VEHTYPE" depart="149.00" route="!149" distance="0 0" speedFactor="1.11" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="149.1" type="DEFAULT_VEHTYPE" depart="149.00" route="!149" distance="0 0" speedFactor="1.07" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="15.1" type="DEFAULT_VEHTYPE" depart="15.00" route="!15" distance="220.51 0" speedFactor="1.02" state="0 27000 3 5.10 0 52.28 99000 0 0" pos="63.46 58.46 13.65" speed="13.65 13.01" posLat="0.00" waitingTime="100000 1 10000 52000"/>
+    <vehicle id="150" type="DEFAULT_VEHTYPE" depart="150.00" route="!150" distance="0 0" speedFactor="1.02" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="150.1" type="DEFAULT_VEHTYPE" depart="150.00" route="!150" distance="0 0" speedFactor="1.00" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="151" type="DEFAULT_VEHTYPE" depart="151.00" route="!151" distance="0 0" speedFactor="0.97" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="151.1" type="DEFAULT_VEHTYPE" depart="151.00" route="!151" distance="0 0" speedFactor="0.96" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="152" type="DEFAULT_VEHTYPE" depart="152.00" route="!152" distance="0 0" speedFactor="0.98" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="152.1" type="DEFAULT_VEHTYPE" depart="152.00" route="!152" distance="0 0" speedFactor="1.10" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="154" type="DEFAULT_VEHTYPE" depart="154.00" route="!154" distance="0 0" speedFactor="1.04" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="154.1" type="DEFAULT_VEHTYPE" depart="154.00" route="!154" distance="0 0" speedFactor="1.00" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="155" type="DEFAULT_VEHTYPE" depart="155.00" route="!155" distance="0 0" speedFactor="1.10" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="155.1" type="DEFAULT_VEHTYPE" depart="155.00" route="!155" distance="0 0" speedFactor="0.83" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="156" type="DEFAULT_VEHTYPE" depart="156.00" route="!156" distance="0 0" speedFactor="1.09" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="156.1" type="DEFAULT_VEHTYPE" depart="156.00" route="!156" distance="0 0" speedFactor="0.97" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="157" type="DEFAULT_VEHTYPE" depart="157.00" route="!157" distance="0 0" speedFactor="1.07" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="157.1" type="DEFAULT_VEHTYPE" depart="157.00" route="!157" distance="0 0" speedFactor="1.07" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="158" type="DEFAULT_VEHTYPE" depart="158.00" route="!158" distance="0 0" speedFactor="0.91" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="158.1" type="DEFAULT_VEHTYPE" depart="158.00" route="!158" distance="0 0" speedFactor="1.00" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="161" type="DEFAULT_VEHTYPE" depart="161.00" route="!161" distance="0 0" speedFactor="1.15" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="161.1" type="DEFAULT_VEHTYPE" depart="161.00" route="!161" distance="0 0" speedFactor="0.84" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="164" type="DEFAULT_VEHTYPE" depart="164.00" route="!164" distance="0 0" speedFactor="1.06" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="164.1" type="DEFAULT_VEHTYPE" depart="164.00" route="!164" distance="0 0" speedFactor="1.02" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="165" type="DEFAULT_VEHTYPE" depart="165.00" route="!165" distance="0 0" speedFactor="0.97" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="165.1" type="DEFAULT_VEHTYPE" depart="165.00" route="!165" distance="0 0" speedFactor="1.24" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="166" type="DEFAULT_VEHTYPE" depart="166.00" route="!166" distance="0 0" speedFactor="1.11" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="166.1" type="DEFAULT_VEHTYPE" depart="166.00" route="!166" distance="0 0" speedFactor="1.09" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="167" type="DEFAULT_VEHTYPE" depart="167.00" route="!167" distance="0 0" speedFactor="0.99" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="167.1" type="DEFAULT_VEHTYPE" depart="167.00" route="!167" distance="0 0" speedFactor="1.04" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="170" type="DEFAULT_VEHTYPE" depart="170.00" route="!170" distance="0 0" speedFactor="1.14" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="170.1" type="DEFAULT_VEHTYPE" depart="170.00" route="!170" distance="0 0" speedFactor="0.97" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="171" type="DEFAULT_VEHTYPE" depart="171.00" route="!171" distance="0 0" speedFactor="1.15" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="171.1" type="DEFAULT_VEHTYPE" depart="171.00" route="!171" distance="0 0" speedFactor="0.91" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="173" type="DEFAULT_VEHTYPE" depart="173.00" route="!173" distance="0 0" speedFactor="0.96" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="173.1" type="DEFAULT_VEHTYPE" depart="173.00" route="!173" distance="0 0" speedFactor="1.04" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="174" type="DEFAULT_VEHTYPE" depart="174.00" route="!174" distance="0 0" speedFactor="0.88" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="174.1" type="DEFAULT_VEHTYPE" depart="174.00" route="!174" distance="0 0" speedFactor="1.10" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="175" type="DEFAULT_VEHTYPE" depart="175.00" route="!175" distance="0 0" speedFactor="1.13" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="175.1" type="DEFAULT_VEHTYPE" depart="175.00" route="!175" distance="0 0" speedFactor="0.95" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="176" type="DEFAULT_VEHTYPE" depart="176.00" route="!176" distance="0 0" speedFactor="1.01" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="176.1" type="DEFAULT_VEHTYPE" depart="176.00" route="!176" distance="0 0" speedFactor="0.97" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="177" type="DEFAULT_VEHTYPE" depart="177.00" route="!177" distance="0 0" speedFactor="0.99" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="177.1" type="DEFAULT_VEHTYPE" depart="177.00" route="!177" distance="0 0" speedFactor="1.02" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="178" type="DEFAULT_VEHTYPE" depart="178.00" route="!178" distance="0 0" speedFactor="1.01" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="178.1" type="DEFAULT_VEHTYPE" depart="178.00" route="!178" distance="0 0" speedFactor="0.97" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="179" type="DEFAULT_VEHTYPE" depart="179.00" route="!179" distance="0 0" speedFactor="1.04" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="179.1" type="DEFAULT_VEHTYPE" depart="179.00" route="!179" distance="0 0" speedFactor="1.14" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="180" type="DEFAULT_VEHTYPE" depart="180.00" route="!180" distance="0 0" speedFactor="1.11" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="180.1" type="DEFAULT_VEHTYPE" depart="180.00" route="!180" distance="0 0" speedFactor="0.93" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="181" type="DEFAULT_VEHTYPE" depart="181.00" route="!181" distance="0 0" speedFactor="0.88" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="181.1" type="DEFAULT_VEHTYPE" depart="181.00" route="!181" distance="0 0" speedFactor="0.99" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="185" type="DEFAULT_VEHTYPE" depart="185.00" route="!185" distance="0 0" speedFactor="0.98" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="185.1" type="DEFAULT_VEHTYPE" depart="185.00" route="!185" distance="0 0" speedFactor="0.88" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="188" type="DEFAULT_VEHTYPE" depart="188.00" route="!188" distance="0 0" speedFactor="0.71" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="188.1" type="DEFAULT_VEHTYPE" depart="188.00" route="!188" distance="0 0" speedFactor="0.96" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="19" type="DEFAULT_VEHTYPE" depart="19.00" route="!19" distance="224.19 0" speedFactor="0.89" state="0 30000 4 5.10 0 49.18 99000 0 0" pos="3.97 10.83 6.38" speed="6.38 5.71" posLat="0.00" waitingTime="100000 1 9000 49000"/>
+    <vehicle id="19.1" type="DEFAULT_VEHTYPE" depart="19.00" route="!19" distance="202.67 0" speedFactor="0.83" state="0 33000 2 5.10 0 47.20 99000 0 0" pos="7.76 2.76 5.19" speed="5.19 4.19" posLat="0.00" waitingTime="100000 1 8000 46000"/>
+    <vehicle id="190" type="DEFAULT_VEHTYPE" depart="190.00" route="!190" distance="0 0" speedFactor="1.30" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="190.1" type="DEFAULT_VEHTYPE" depart="190.00" route="!190" distance="0 0" speedFactor="1.01" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="191" type="DEFAULT_VEHTYPE" depart="191.00" route="!191" distance="0 0" speedFactor="0.84" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="191.1" type="DEFAULT_VEHTYPE" depart="191.00" route="!191" distance="0 0" speedFactor="0.75" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="192" type="DEFAULT_VEHTYPE" depart="192.00" route="!192" distance="0 0" speedFactor="1.13" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="192.1" type="DEFAULT_VEHTYPE" depart="192.00" route="!192" distance="0 0" speedFactor="1.04" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="193" type="DEFAULT_VEHTYPE" depart="193.00" route="!193" distance="0 0" speedFactor="0.96" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="193.1" type="DEFAULT_VEHTYPE" depart="193.00" route="!193" distance="0 0" speedFactor="1.13" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="194" type="DEFAULT_VEHTYPE" depart="194.00" route="!194" distance="0 0" speedFactor="0.96" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="194.1" type="DEFAULT_VEHTYPE" depart="194.00" route="!194" distance="0 0" speedFactor="0.98" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="196" type="DEFAULT_VEHTYPE" depart="196.00" route="!196" distance="0 0" speedFactor="0.92" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="196.1" type="DEFAULT_VEHTYPE" depart="196.00" route="!196" distance="0 0" speedFactor="0.96" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="197" type="DEFAULT_VEHTYPE" depart="197.00" route="!197" distance="0 0" speedFactor="1.26" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="197.1" type="DEFAULT_VEHTYPE" depart="197.00" route="!197" distance="0 0" speedFactor="0.97" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="199" type="DEFAULT_VEHTYPE" depart="199.00" route="!199" distance="0 0" speedFactor="0.87" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="199.1" type="DEFAULT_VEHTYPE" depart="199.00" route="!199" distance="0 0" speedFactor="1.05" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="200" type="DEFAULT_VEHTYPE" depart="200.00" route="!200" distance="0 0" speedFactor="0.98" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="200.1" type="DEFAULT_VEHTYPE" depart="200.00" route="!200" distance="0 0" speedFactor="0.85" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="202" type="DEFAULT_VEHTYPE" depart="202.00" route="!202" distance="0 0" speedFactor="0.97" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="202.1" type="DEFAULT_VEHTYPE" depart="202.00" route="!202" distance="0 0" speedFactor="0.87" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="24" type="DEFAULT_VEHTYPE" depart="24.00" route="!24" distance="324 0" speedFactor="1.15" state="0 24000 1 5.10 50000 62.43 99000 0 0" pos="35.17 30.17 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 50000"/>
+    <vehicle id="24.1" type="DEFAULT_VEHTYPE" depart="24.00" route="!24" distance="324 0" speedFactor="1.01" state="0 27000 1 5.10 47000 57.86 99000 0 0" pos="35.17 30.17 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 47000"/>
+    <vehicle id="31" type="DEFAULT_VEHTYPE" depart="31.00" route="!31" distance="324 0" speedFactor="1.18" state="0 31000 1 5.10 44000 56.39 99000 0 0" pos="27.67 22.67 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 44000"/>
+    <vehicle id="31.1" type="DEFAULT_VEHTYPE" depart="31.00" route="!31" distance="324 0" speedFactor="1.10" state="0 34000 1 5.10 41000 53.12 99000 0 0" pos="20.17 15.17 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 41000"/>
+    <vehicle id="32" type="DEFAULT_VEHTYPE" depart="32.00" route="!32" distance="220.51 0" speedFactor="0.90" state="0 36000 3 5.10 0 42.49 99000 0 0" pos="41.21 36.21 11.49" speed="11.49 11.90" posLat="0.00" waitingTime="100000 1 10000 42000"/>
+    <vehicle id="32.1" type="DEFAULT_VEHTYPE" depart="32.00" route="!32" distance="202.67 0" speedFactor="1.03" state="0 39000 2 5.10 0 45.99 99000 0 0" pos="2.96 9.33 6.27" speed="6.27 4.61" posLat="0.00" waitingTime="100000 2 3000 8000 10000 39000"/>
+    <vehicle id="34" type="DEFAULT_VEHTYPE" depart="34.00" route="!34" distance="0 0" speedFactor="0.96" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="5.10 0.10 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="34.1" type="DEFAULT_VEHTYPE" depart="34.00" route="!34" distance="0 0" speedFactor="1.09" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="36" type="DEFAULT_VEHTYPE" depart="36.00" route="!36" distance="191.3 0" speedFactor="1.04" state="0 42000 0 5.10 0 43.72 99000 0 0" pos="5.16 0.16 4.38" speed="4.38 4.98" posLat="0.00" waitingTime="100000 1 7000 41000"/>
+    <vehicle id="36.1" type="DEFAULT_VEHTYPE" depart="36.00" route="!36" distance="0 0" speedFactor="1.04" state="0 45000 0 5.10 0 41.77 99000 0 0" pos="182.31 177.31 4.76" speed="4.76 6.43" posLat="0.00" waitingTime="100000 1 6000 36000"/>
+    <vehicle id="37" type="DEFAULT_VEHTYPE" depart="37.00" route="!37" distance="324 0" speedFactor="1.09" state="0 37000 1 5.10 37000 48.78 99000 0 0" pos="35.17 30.17 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 37000"/>
+    <vehicle id="37.1" type="DEFAULT_VEHTYPE" depart="37.00" route="!37" distance="324 0" speedFactor="1.00" state="0 40000 1 5.10 35000 45.31 99000 0 0" pos="27.67 22.67 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 35000"/>
+    <vehicle id="38" type="DEFAULT_VEHTYPE" depart="38.00" route="!38" distance="0 0" speedFactor="0.90" state="0 48000 0 5.10 0 38.10 99000 0 0" pos="166.50 161.50 5.56" speed="5.56 4.13" posLat="0.00" waitingTime="100000 1 5000 33000"/>
+    <vehicle id="38.1" type="DEFAULT_VEHTYPE" depart="38.00" route="!38" distance="0 0" speedFactor="0.88" state="0 51000 0 5.10 0 35.90 99000 0 0" pos="152.52 147.52 3.43" speed="3.43 2.76" posLat="0.00" waitingTime="100000 1 4000 30000"/>
+    <vehicle id="40" type="DEFAULT_VEHTYPE" depart="40.00" route="!40" distance="324 0" speedFactor="1.17" state="0 43000 1 5.10 32000 44.19 99000 0 0" pos="27.67 22.67 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 32000"/>
+    <vehicle id="40.1" type="DEFAULT_VEHTYPE" depart="40.00" route="!40" distance="324 0" speedFactor="1.02" state="0 46000 1 5.10 30000 39.83 99000 0 0" pos="20.17 15.17 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 30000"/>
+    <vehicle id="41" type="DEFAULT_VEHTYPE" depart="41.00" route="!41" distance="324 0" speedFactor="1.10" state="0 49000 1 5.10 26000 38.39 99000 0 0" pos="12.67 7.67 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 26000"/>
+    <vehicle id="41.1" type="DEFAULT_VEHTYPE" depart="41.00" route="!41" distance="324 0" speedFactor="1.00" state="0 52000 1 5.10 25000 33.58 99000 0 0" pos="20.17 15.17 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 25000"/>
+    <vehicle id="43.1" type="DEFAULT_VEHTYPE" depart="43.00" route="!43" distance="0 0" speedFactor="1.02" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="5.10 0.10 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="47" type="DEFAULT_VEHTYPE" depart="47.00" route="!47" distance="196.68 0" speedFactor="1.12" state="0 48000 6 5.10 0 34.92 99000 0 0" pos="161.27 156.27 30.46" speed="30.46 28.53" posLat="0.00" waitingTime="100000 1 17000 18000"/>
+    <vehicle id="47.1" type="DEFAULT_VEHTYPE" depart="47.00" route="!47" distance="196.68 0" speedFactor="1.02" state="0 51000 6 5.10 0 34.61 99000 0 0" pos="39.79 34.79 23.66" speed="23.66 21.34" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="48" type="DEFAULT_VEHTYPE" depart="48.00" route="!48" distance="0 0" speedFactor="0.99" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="48.1" type="DEFAULT_VEHTYPE" depart="48.00" route="!48" distance="0 0" speedFactor="0.94" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="49" type="DEFAULT_VEHTYPE" depart="49.00" route="!49" distance="0 0" speedFactor="0.88" state="0 56000 0 5.10 38000 42.38 99000 0 0" pos="12.67 7.67 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 38000"/>
+    <vehicle id="49.1" type="DEFAULT_VEHTYPE" depart="49.00" route="!49" distance="0 0" speedFactor="0.91" state="0 61000 0 5.10 38000 37.99 99000 0 0" pos="5.16 0.16 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 38000"/>
+    <vehicle id="5" type="DEFAULT_VEHTYPE" depart="5.00" route="!5" distance="229.12 0" speedFactor="1.08" state="0 5000 1 5.10 73000 78.47 99000 0 0" pos="9.58 4.58 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 73000"/>
+    <vehicle id="5.1" type="DEFAULT_VEHTYPE" depart="5.00" route="!5" distance="229.12 0" speedFactor="1.03" state="0 8000 1 5.10 67000 74.68 99000 0 0" pos="9.58 4.58 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 67000"/>
+    <vehicle id="53" type="DEFAULT_VEHTYPE" depart="53.00" route="!53" distance="92.72 0" speedFactor="0.97" state="0 54000 2 5.10 6000 37.65 99000 0 0" pos="0.20 7.43 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 6000"/>
+    <vehicle id="53.1" type="DEFAULT_VEHTYPE" depart="53.00" route="!53" distance="0 0" speedFactor="0.94" state="0 57000 0 5.10 8000 36.30 99000 0 0" pos="79.49 74.49 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 8000"/>
+    <vehicle id="55" type="DEFAULT_VEHTYPE" depart="55.00" route="!55" distance="0 0" speedFactor="1.06" state="0 55000 0 5.10 0 34.72 99000 0 0" pos="141.25 136.25 2.44" speed="2.44 0.90" posLat="0.00" waitingTime="100000 1 3000 28000"/>
+    <vehicle id="55.1" type="DEFAULT_VEHTYPE" depart="55.00" route="!55" distance="0 0" speedFactor="0.96" state="0 58000 0 5.10 0 31.49 99000 0 0" pos="131.24 126.24 0.83" speed="0.83 0.12" posLat="0.00" waitingTime="100000 1 2000 26000"/>
+    <vehicle id="56" type="DEFAULT_VEHTYPE" depart="56.00" route="!56" distance="315.09 0" speedFactor="0.98" state="0 60000 0 5.10 18000 27.29 99000 0 0" pos="6.57 1.57 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 18000"/>
+    <vehicle id="56.1" type="DEFAULT_VEHTYPE" depart="56.00" route="!56" distance="324 0" speedFactor="1.03" state="0 63000 1 5.10 7000 24.33 99000 0 0" pos="5.16 0.16 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 2 0 7000 13000 15000"/>
+    <vehicle id="57" type="DEFAULT_VEHTYPE" depart="57.00" route="!57" distance="202.67 0" speedFactor="0.98" state="0 61000 2 5.10 0 22.43 99000 0 0" pos="14.81 9.81 7.43" speed="7.43 5.09" posLat="0.00" waitingTime="100000 1 9000 18000"/>
+    <vehicle id="57.1" type="DEFAULT_VEHTYPE" depart="57.00" route="!57" distance="220.51 0" speedFactor="1.01" state="0 64000 3 5.10 0 15.60 99000 0 0" pos="56.00 51.00 12.77" speed="12.77 13.54" posLat="0.00" waitingTime="100000 1 10000 15000"/>
+    <vehicle id="59" type="DEFAULT_VEHTYPE" depart="59.00" route="!59" distance="324 0" speedFactor="1.00" state="0 66000 1 5.10 9000 20.34 99000 0 0" pos="12.67 7.67 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 9000"/>
+    <vehicle id="59.1" type="DEFAULT_VEHTYPE" depart="59.00" route="!59" distance="324 0" speedFactor="1.02" state="0 69000 1 5.10 5000 18.08 99000 0 0" pos="5.16 0.16 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 5000"/>
+    <vehicle id="60" type="DEFAULT_VEHTYPE" depart="60.00" route="!60" distance="371.44 0" speedFactor="0.97" state="0 71000 3 5.10 0 10.56 99000 0 0" pos="20.64 15.64 8.80" speed="8.80 7.09" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="60.1" type="DEFAULT_VEHTYPE" depart="60.00" route="!60" distance="371.44 0" speedFactor="1.15" state="0 74000 3 5.10 0 12.13 99000 0 0" pos="1.83 5.87 6.86" speed="6.86 6.56" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="61" type="DEFAULT_VEHTYPE" depart="61.00" route="!61" distance="0 0" speedFactor="0.98" state="0 67000 0 5.10 17000 23.31 99000 0 0" pos="122.86 117.86 0.07" speed="0.07 0.00" posLat="0.00" waitingTime="100000 1 0 17000"/>
+    <vehicle id="61.1" type="DEFAULT_VEHTYPE" depart="61.00" route="!61" distance="0 0" speedFactor="1.00" state="0 70000 0 5.10 15000 21.08 99000 0 0" pos="115.29 110.29 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 15000"/>
+    <vehicle id="64" type="DEFAULT_VEHTYPE" depart="64.00" route="!64" distance="220.51 0" speedFactor="1.02" state="0 73000 3 5.10 0 8.59 99000 0 0" pos="31.71 26.71 13.09" speed="13.09 13.17" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="64.1" type="DEFAULT_VEHTYPE" depart="64.00" route="!64" distance="191.3 0" speedFactor="1.02" state="0 76000 0 5.10 0 9.19 99000 0 0" pos="8.84 3.84 2.78" speed="2.78 3.27" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="66" type="DEFAULT_VEHTYPE" depart="66.00" route="!66" distance="0 0" speedFactor="0.89" state="0 79000 0 5.10 0 5.16 99000 0 0" pos="188.90 183.90 4.92" speed="4.92 9.42" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="66.1" type="DEFAULT_VEHTYPE" depart="66.00" route="!66" distance="0 0" speedFactor="0.83" state="0 82000 0 5.10 0 3.60 99000 0 0" pos="160.21 155.21 10.62" speed="10.62 11.56" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="67" type="DEFAULT_VEHTYPE" depart="67.00" route="!67" distance="0 0" speedFactor="0.92" state="0 67000 0 5.10 6000 26.77 99000 0 0" pos="71.99 66.99 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 6000"/>
+    <vehicle id="67.1" type="DEFAULT_VEHTYPE" depart="67.00" route="!67" distance="0 0" speedFactor="1.09" state="0 70000 0 5.10 4000 25.08 99000 0 0" pos="64.49 59.49 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 4000"/>
+    <vehicle id="68" type="DEFAULT_VEHTYPE" depart="68.00" route="!68" distance="105.43 0" speedFactor="1.06" state="0 73000 3 5.10 0 6.45 99000 0 0" pos="179.34 174.34 13.55" speed="13.55 14.66" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="68.1" type="DEFAULT_VEHTYPE" depart="68.00" route="!68" distance="105.43 0" speedFactor="1.01" state="0 74000 3 5.10 0 8.43 99000 0 0" pos="125.34 120.34 13.65" speed="13.65 13.81" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="69" type="DEFAULT_VEHTYPE" depart="69.00" route="!69" distance="315.09 0" speedFactor="0.91" state="0 76000 0 5.10 1000 10.26 99000 0 0" pos="6.57 1.57 0.01" speed="0.01 0.42" posLat="0.00" waitingTime="100000 1 0 1000"/>
+    <vehicle id="69.1" type="DEFAULT_VEHTYPE" depart="69.00" route="!69" distance="0 0" speedFactor="1.12" state="0 79000 0 5.10 0 10.20 99000 0 0" pos="310.48 305.48 7.36" speed="7.36 11.86" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="70.1" type="DEFAULT_VEHTYPE" depart="70.00" route="!70" distance="54.73 0" speedFactor="1.07" state="0 78000 2 5.10 0 15.84 99000 0 0" pos="25.89 20.89 11.23" speed="11.23 9.33" posLat="0.00" waitingTime="100000 1 7000 14000"/>
+    <vehicle id="72" type="DEFAULT_VEHTYPE" depart="72.00" route="!72" distance="82.7 0" speedFactor="0.96" state="0 80000 1 5.10 0 9.72 99000 0 0" pos="151.62 146.62 25.07" speed="25.07 22.98" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="72.1" type="DEFAULT_VEHTYPE" depart="72.00" route="!72" distance="74.66 0" speedFactor="0.97" state="0 82000 0 5.10 0 13.56 99000 0 0" pos="5.02 0.02 3.70" speed="3.70 1.41" posLat="0.00" waitingTime="100000 1 2000 6000"/>
+    <vehicle id="73" type="DEFAULT_VEHTYPE" depart="73.00" route="!73" distance="0 0" speedFactor="0.95" state="0 82000 0 5.10 0 6.58 99000 0 0" pos="280.82 275.82 18.95" speed="18.95 23.45" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="73.1" type="DEFAULT_VEHTYPE" depart="73.00" route="!73" distance="0 0" speedFactor="0.89" state="0 85000 0 5.10 0 6.00 99000 0 0" pos="203.79 198.79 24.76" speed="24.76 24.28" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="74" type="DEFAULT_VEHTYPE" depart="74.00" route="!74" distance="303.44 0" speedFactor="1.07" state="0 74000 1 5.10 0 7.17 99000 0 0" pos="5.31 0.31 7.82" speed="7.82 6.44" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="74.1" type="DEFAULT_VEHTYPE" depart="74.00" route="!74" distance="228.78 0" speedFactor="1.01" state="0 76000 1 5.10 0 5.15 99000 0 0" pos="52.84 47.84 12.60" speed="12.60 16.28" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="77" type="DEFAULT_VEHTYPE" depart="77.00" route="!77" distance="228.78 0" speedFactor="1.03" state="0 77000 1 5.10 0 5.75 99000 0 0" pos="24.44 19.44 17.82" speed="17.82 15.99" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="77.1" type="DEFAULT_VEHTYPE" depart="77.00" route="!77" distance="210.01 0" speedFactor="1.06" state="0 78000 0 5.10 0 6.44 99000 0 0" pos="12.47 7.47 14.40" speed="14.40 13.60" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="79" type="DEFAULT_VEHTYPE" depart="79.00" route="!79" distance="0 0" speedFactor="0.87" state="0 79000 0 5.10 0 5.87 99000 0 0" pos="175.07 170.07 11.94" speed="11.94 11.29" posLat="0.00" waitingTime="100000 1 18000 19000"/>
+    <vehicle id="79.1" type="DEFAULT_VEHTYPE" depart="79.00" route="!79" distance="0 0" speedFactor="1.10" state="0 81000 0 5.10 0 8.24 99000 0 0" pos="153.95 148.95 11.63" speed="11.63 12.67" posLat="0.00" waitingTime="100000 1 16000 17000"/>
+    <vehicle id="8" type="DEFAULT_VEHTYPE" depart="8.00" route="!8" distance="229.12 0" speedFactor="0.86" state="0 11000 1 5.10 64000 69.00 99000 0 0" pos="2.08 16.19 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 64000"/>
+    <vehicle id="8.1" type="DEFAULT_VEHTYPE" depart="8.00" route="!8" distance="229.12 0" speedFactor="1.09" state="0 14000 1 5.10 61000 69.58 99000 0 0" pos="9.58 4.58 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 1 0 61000"/>
+    <vehicle id="82" type="DEFAULT_VEHTYPE" depart="82.00" route="!82" distance="0 0" speedFactor="1.01" state="0 85000 0 5.10 0 3.67 99000 0 0" pos="149.88 144.88 12.93" speed="12.93 12.72" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="82.1" type="DEFAULT_VEHTYPE" depart="82.00" route="!82" distance="0 0" speedFactor="1.10" state="0 87000 0 5.10 0 4.12 99000 0 0" pos="125.16 120.16 13.27" speed="13.27 13.24" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="83" type="DEFAULT_VEHTYPE" depart="83.00" route="!83" distance="0 0" speedFactor="0.92" state="0 84000 0 5.10 0 5.02 99000 0 0" pos="132.94 127.94 12.61" speed="12.61 11.59" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="83.1" type="DEFAULT_VEHTYPE" depart="83.00" route="!83" distance="0 0" speedFactor="1.18" state="0 86000 0 5.10 0 6.52 99000 0 0" pos="111.05 106.05 12.24" speed="12.24 11.19" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="84" type="DEFAULT_VEHTYPE" depart="84.00" route="!84" distance="0 0" speedFactor="1.00" state="0 87000 0 5.10 0 6.12 99000 0 0" pos="87.10 82.10 11.62" speed="11.62 11.57" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="84.1" type="DEFAULT_VEHTYPE" depart="84.00" route="!84" distance="0 0" speedFactor="0.99" state="0 88000 0 5.10 0 6.72 99000 0 0" pos="64.04 59.04 12.59" speed="12.59 10.09" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="85" type="DEFAULT_VEHTYPE" depart="85.00" route="!85" distance="0 0" speedFactor="1.07" state="0 88000 0 5.10 0 4.13 99000 0 0" pos="107.25 102.25 4.65" speed="4.65 8.77" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="85.1" type="DEFAULT_VEHTYPE" depart="85.00" route="!85" distance="0 0" speedFactor="0.94" state="0 91000 0 5.10 0 2.57 99000 0 0" pos="76.15 71.15 12.75" speed="12.75 12.98" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="87" type="DEFAULT_VEHTYPE" depart="87.00" route="!87" distance="0 0" speedFactor="1.10" state="0 94000 0 5.10 0 3.12 99000 0 0" pos="33.94 28.94 8.98" speed="8.98 7.38" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="87.1" type="DEFAULT_VEHTYPE" depart="87.00" route="!87" distance="0 0" speedFactor="1.03" state="0 97000 0 5.10 0 1.55 99000 0 0" pos="11.62 6.62 4.49" speed="4.49 2.03" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="88" type="DEFAULT_VEHTYPE" depart="88.00" route="!88" distance="0 0" speedFactor="1.02" state="0 88000 0 5.10 0 7.35 99000 0 0" pos="56.92 51.92 0.11" speed="0.11 0.40" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="88.1" type="DEFAULT_VEHTYPE" depart="88.00" route="!88" distance="0 0" speedFactor="1.06" state="0 91000 0 5.10 0 5.04 99000 0 0" pos="48.65 43.65 1.97" speed="1.97 5.30" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="91" type="DEFAULT_VEHTYPE" depart="91.00" route="!91" distance="0 0" speedFactor="1.15" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="5.10 0.10 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="91.1" type="DEFAULT_VEHTYPE" depart="91.00" route="!91" distance="0 0" speedFactor="1.03" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="92" type="DEFAULT_VEHTYPE" depart="92.00" route="!92" distance="0 0" speedFactor="0.82" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="5.10 0.10 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="92.1" type="DEFAULT_VEHTYPE" depart="92.00" route="!92" distance="0 0" speedFactor="1.12" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="93" type="DEFAULT_VEHTYPE" depart="93.00" route="!93" distance="0 0" speedFactor="1.01" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="5.10 0.10 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="93.1" type="DEFAULT_VEHTYPE" depart="93.00" route="!93" distance="0 0" speedFactor="1.03" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="94" type="DEFAULT_VEHTYPE" depart="94.00" route="!94" distance="0 0" speedFactor="1.07" state="0 94000 0 5.10 0 2.87 99000 0 0" pos="36.73 31.73 11.18" speed="11.18 8.89" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="94.1" type="DEFAULT_VEHTYPE" depart="94.00" route="!94" distance="0 0" speedFactor="0.96" state="0 97000 0 5.10 0 1.66 99000 0 0" pos="9.68 4.68 3.03" speed="3.03 1.55" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="95" type="DEFAULT_VEHTYPE" depart="95.00" route="!95" distance="0 0" speedFactor="1.04" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="95.1" type="DEFAULT_VEHTYPE" depart="95.00" route="!95" distance="0 0" speedFactor="1.23" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="99" type="DEFAULT_VEHTYPE" depart="99.00" route="!99" distance="0 0" speedFactor="1.01" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <vehicle id="99.1" type="DEFAULT_VEHTYPE" depart="99.00" route="!99" distance="0 0" speedFactor="1.12" state="0 9223372036854775807 0 -1.00 0 0.00 0 0 0" pos="0.00 0.00 0.00" speed="0.00 0.00" posLat="0.00" waitingTime="100000 0"/>
+    <lane id=":4528473378_0_0">
+        <vehicles value="36"/>
+    </lane>
+    <lane id=":4528473378_0_1">
+        <vehicles value="64.1"/>
+    </lane>
+    <lane id=":4963776925_4_0">
+        <vehicles value="77.1"/>
+    </lane>
+    <lane id=":4963776926_0_0">
+        <vehicles value="19.1"/>
+    </lane>
+    <lane id=":4963776926_2_1">
+        <vehicles value="57"/>
+    </lane>
+    <lane id=":4963776926_2_3">
+        <vehicles value="32.1"/>
+    </lane>
+    <lane id=":4963776943_0_0">
+        <vehicles value="56"/>
+    </lane>
+    <lane id=":4963776943_0_2">
+        <vehicles value="69"/>
+    </lane>
+    <lane id=":6234996944_7_0">
+        <vehicles value="72.1"/>
+    </lane>
+    <lane id=":6234996944_7_2">
+        <vehicles value="74"/>
+    </lane>
+    <lane id=":6985007466_3_2">
+        <vehicles value="19"/>
+    </lane>
+    <lane id="167533249#1_0">
+        <vehicles value="47.1 47"/>
+    </lane>
+    <lane id="167533249#1_3">
+        <vehicles value="72"/>
+    </lane>
+    <lane id="216650113_0">
+        <vehicles value="88.1 88 67.1 67 53.1"/>
+    </lane>
+    <lane id="489945116#0_0">
+        <vehicles value="94.1 94"/>
+    </lane>
+    <lane id="489945116#0_3">
+        <vehicles value="84.1 84 83.1 83 79.1 79"/>
+    </lane>
+    <lane id="489945116#1_0">
+        <vehicles value="8 5"/>
+    </lane>
+    <lane id="489945116#1_1">
+        <vehicles value="5.1"/>
+    </lane>
+    <lane id="489945116#1_2">
+        <vehicles value="8.1"/>
+    </lane>
+    <lane id="489945116#5_2">
+        <vehicles value="70.1"/>
+    </lane>
+    <lane id="489945116#5_3">
+        <vehicles value="60.1 60"/>
+    </lane>
+    <lane id="506695195_0">
+        <vehicles value="74.1"/>
+    </lane>
+    <lane id="506695195_1">
+        <vehicles value="77"/>
+    </lane>
+    <lane id="506695204#1_0">
+        <vehicles value="73.1 73"/>
+    </lane>
+    <lane id="506695204#1_2">
+        <vehicles value="69.1"/>
+    </lane>
+    <lane id="565242144#2_0">
+        <vehicles value="87.1 87 85.1 85 61.1 61 55.1 55 38.1 38 36.1"/>
+    </lane>
+    <lane id="565242144#2_1">
+        <vehicles value="66.1"/>
+    </lane>
+    <lane id="565242144#2_3">
+        <vehicles value="82.1 82 66"/>
+    </lane>
+    <lane id="565242144#4_2">
+        <vehicles value="53"/>
+    </lane>
+    <lane id="565242144#5_0">
+        <vehicles value="15.1"/>
+    </lane>
+    <lane id="565242144#5_1">
+        <vehicles value="32"/>
+    </lane>
+    <lane id="565242144#5_3">
+        <vehicles value="64 57.1 68.1 68"/>
+    </lane>
+    <lane id="gneE0_0">
+        <vehicles value="49.1 49 31.1 31 24"/>
+    </lane>
+    <lane id="gneE0_1">
+        <vehicles value="56.1 41 40.1 37.1 24.1"/>
+    </lane>
+    <lane id="gneE0_2">
+        <vehicles value="59.1 59 41.1 40 37"/>
+    </lane>
+</snapshot>

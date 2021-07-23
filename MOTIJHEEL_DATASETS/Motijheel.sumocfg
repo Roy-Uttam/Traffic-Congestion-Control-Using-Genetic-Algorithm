@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<configuration>
+	<input>
+		<net-file value="Motijheel.net.xml" />
+		<route-files value="Motijheel.rou.xml" />
+		<additional-files value="Motijheel_additional.xml" />
+	</input>
+	<time>
+		<begin value="0" />
+		<end value="1000" />
+	</time>
+	<!--
+	<report>
+	<no-duration-log value="true"/>
+	<no-step-log value="true"/>
+	</report>
+	-->
+</configuration>

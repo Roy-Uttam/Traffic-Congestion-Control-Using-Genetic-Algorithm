@@ -1,0 +1,6 @@
+# After importing the Dhanmondi.osm map file from open streetmap.
+# Creates necessary net and polygons
+netconvert --osm-files Dhanmondi.osm --tls.guess 1 -L 2 --no-warnings --output-file Dhanmondi.net.xml
+# polyconvert --net-file Dhanmondi.net.xml --osm-files Dhanmondi.osm --type-file typemap.xml -o Dhanmondi.poly.xml (Optional)
+python randomTrips.py -n Dhanmondi.net.xml -e 2000 -l
+python randomTrips.py -n Dhanmondi.net.xml -r Dhanmondi.rou.xml -e 2000 -l
